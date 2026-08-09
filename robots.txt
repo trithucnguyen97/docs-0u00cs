@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-dm9q7z.antam89.site/sitemap.xml
